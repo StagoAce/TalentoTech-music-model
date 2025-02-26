@@ -29,37 +29,54 @@ pip install librosa numpy pandas matplotlib tensorflow opencv-python scikit-lear
 ## Configuración del Entorno Virtual
 Se recomienda usar un entorno virtual para aislar las dependencias del proyecto:
 
-## Crear el entorno virtual:
+Crear el entorno virtual:
 
 python -m venv venv
-Activar el entorno virtual:
+# Activar el entorno virtual:
 
-## En Windows:
-venv\Scripts\activate
+En Windows:
+
+
+  venv\Scripts\activate
+
 En macOS/Linux:
-source venv/bin/activate
+
+
+  source venv/bin/activate
+
 Instalar las dependencias:
 
 Puedes crear un archivo requirements.txt con el siguiente contenido:
 
 nginx
-Copiar
-Editar
+
 librosa
+
 numpy
+
 pandas
+
 matplotlib
+
 tensorflow
+
 opencv-python
+
 scikit-learn
+
 seaborn
+
 Luego instala las dependencias con:
 
-pip install -r requirements.txt
-Uso
-El proyecto incluye scripts para:
 
-## Cargar y preprocesar los datos: 
+pip install -r requirements.txt
+
+### Uso
+
+## El proyecto incluye scripts para:
+
+Cargar y preprocesar los datos: 
+
 Se realiza la carga de las características numéricas y los espectrogramas, normalizando nombres de archivos para resolver problemas de codificación y espacios.
 Entrenar el modelo: Se entrena un modelo híbrido (CNN + DNN) que integra ambos tipos de datos.
 Evaluar el modelo: Se evalúa el desempeño utilizando métricas como F1-Score, AUC-ROC y se genera una matriz de confusión.
