@@ -1,6 +1,6 @@
 # Predicción de Éxito de Canciones (Proyecto Académico)
 
-Este repositorio contiene un proyecto académico desarrollado para predecir el éxito de canciones utilizando características numéricas y espectrogramas extraídos de archivos de audio. Se trata de un proyecto de investigación y aprendizaje, y **no se utilizará para ningún fin comercial o ajeno al ámbito académico**.
+Este repositorio contiene un proyecto académico para el programa Bootcamp Talento Tech de Inteligencia Artificial desarrollado para predecir el éxito de canciones utilizando características numéricas y espectrogramas extraídos de archivos de audio. Se trata de un proyecto de investigación y aprendizaje, y **no se utilizará para ningún fin comercial o ajeno al ámbito académico**.
 
 ## Descripción
 
@@ -75,3 +75,8 @@ Uso de GPU: Si tienes una GPU compatible, asegúrate de tener instalados los con
 
 ## Licencia
 Este proyecto es de uso académico y se proporciona "tal cual", sin garantías de ningún tipo. No se permite el uso comercial sin el consentimiento expreso del autor.
+
+## INTEGRANTES
+SANTIAGO CASTAÑO ACEVEDO
+ALEJANDRO FLOREZ
+SANTIAGO G
