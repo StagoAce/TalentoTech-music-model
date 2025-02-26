@@ -78,5 +78,7 @@ Este proyecto es de uso académico y se proporciona "tal cual", sin garantías d
 
 ## INTEGRANTES
 SANTIAGO CASTAÑO ACEVEDO
+
 ALEJANDRO FLOREZ
+
 SANTIAGO G
