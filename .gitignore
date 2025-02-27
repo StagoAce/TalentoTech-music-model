@@ -136,6 +136,13 @@ ENV/
 env.bak/
 venv.bak/
 
+debajo/
+Sobre/
+prueba/
+modelo_entrenado_2/
+modelo_entrenado_3/
+modelo_entrenado_1/modelo_prediccion_exito.h5
+
 # Spyder project settings
 .spyderproject
 .spyproject
